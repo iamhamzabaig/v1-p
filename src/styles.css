@@ -2,6 +2,26 @@
 	--green-color: "#e6f1ff";
 }
 
+/* width */
+::-webkit-scrollbar {
+	width: 8px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+	background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+	background: #233554;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+	background: #a8b2d1;
+}
+
 .btn {
 	border: 1px solid #64ffda;
 	border-radius: 3px;
