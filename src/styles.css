@@ -30,7 +30,7 @@
 }
 
 .disappear {
-	animation: vanish 3s forwards;
+	animation: vanish 4s forwards;
 }
 
 @keyframes vanish {
@@ -40,6 +40,6 @@
 	}
 	100% {
 		opacity: 0;
-		transform: scale(0.12);
+		transform: scale(0);
 	}
 }
