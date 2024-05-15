@@ -1,0 +1,2 @@
+[build]
+  base = "src"  # Replace "src" with your actual root directory
